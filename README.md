@@ -16,7 +16,7 @@ The study examines accuracy, completeness, actionability, safety, and jurisdicti
 
 Repository Contents:
 
-protocol/ — Abstract and high‑level methodology (full protocol released after journal acceptance)
+protocol/ — Abstract and high‑level methodology
 
 prompts/ — Domain‑organized prompt library structure (content synced from GitHub as released)
 
